@@ -22,10 +22,9 @@ Projeto criado para testar as possibilidades de utilização da API [Free Weathe
 ### Screenshots
 
 <p align="middle">
-<img src="https://github.com/jonathan1313/houseasy-teste-frontend/blob/main/assets/screenshots/randomovie_screenshot03.jpeg" width="20%">
-<img src="https://github.com/jonathan1313/houseasy-teste-frontend/blob/main/assets/screenshots/randomovie_screenshot02.jpeg" width="20%">
-<img src="https://github.com/jonathan1313/houseasy-teste-frontend/blob/main/assets/screenshots/randomovie_screenshot01.jpeg" width="20%">
-<img src="https://github.com/jonathan1313/houseasy-teste-frontend/blob/main/assets/screenshots/randomovie_screenshot05.jpeg" width="20%">
+    <div width="25%"></div>
+    <img src="https://github.com/FroJhoDev/weather_meteo_flutter/blob/main/weather_forecast_app_example.gif?raw=true" width="50%">
+    <div width="25%"></div>
 </p>
 
 ## 🚀 Configurando para Utilizar
